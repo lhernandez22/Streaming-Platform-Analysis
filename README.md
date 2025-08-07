@@ -14,7 +14,7 @@
 - Netflix had the highest average IMDb rating (7.52) and most Top 50 shows.
 - Action and crime genres had the highest engagement.
 
-## Files (check)
-- `notebooks/`: Jupyter notebooks with EDA and modeling
-- `data/`: Cleaned datasets (if sharable)
-- `visuals/`: Graphs and charts for report/dashboard
+## Files
+- Jupyter Notebook: "Final Presentation Spring 2025 Final Draft.ipynb"
+- Dataset: "tv_shows.csv"
+- Report & Visuals: "Final_IMDbRatings_Report.docx" & "Final Presentation Spring 2025 Final.pdf"
