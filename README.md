@@ -32,7 +32,7 @@
 
 ## Findings
 - Netflix had the highest average IMDb rating (7.52/10) and almost half of the top 50 shows.
-- 'Rotten Tomatoes' is the strongest predictor of IMDb ratings, with a moderate relationship.
+- 'Rotten Tomatoes' is the strongest predictor of IMDb ratings, but only explains 35% of variation.
 - Limited Rotten Tomatoes data (only 18% coverage) and missing genres restricted model accuracy.
 
 ## Files
